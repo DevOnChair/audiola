@@ -1,6 +1,6 @@
 # High level system design
 
-![Alt text](assets\system_design.png?raw=true "Title")
+![Alt text](main/assets/system_design.png?raw=true "Title")
 
 
 ## Available Scripts
