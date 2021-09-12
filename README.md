@@ -1,6 +1,6 @@
 # High level system design
 
-![Alt text](https://raw.github.com/DevOnChair/audiola/blob/main/assets/system_design.png?raw=true "Title")
+![Alt text](https://raw.github.com/DevOnChair/audiola/main/assets/system_design.png?raw=true "Title")
 
 
 ## Available Scripts
